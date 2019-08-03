@@ -1,0 +1,1 @@
+{"id":"bitcoinv-x16","description":"","links":[],"name":"BitcoinV X16","abbreviation":"BTCV16","algorithm":{"id":"sha-256","name":"SHA 256"},"pools":[{"name":"MiningCoins.ca","url":"https://miningcoins.ca/","serverLocation":["US"],"paymentInformation":{"paymentScheme":"PROP","paymentThreshold":0.0001,"fee":0.19}}],"wallets":[]}
