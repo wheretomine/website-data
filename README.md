@@ -4,14 +4,14 @@ Starting today we are sharing coin, algorithm and mining pool data we have gathe
 Just a couple of statistics so far:
 - 630 cryptocurrencies
 - 126 algorithms
-- 5799 mining pools
+- 5783 mining pools
 
 All cryptocurrencies have a small description, social media links, algorithm and a couple of more details.
  
-More data about the 5799 mining pools:
-- 5534 have the mining fee (95.43% availability)
-- 5009 have the minimum payout threshold (86.37% availability)
-- 5430 have the payment scheme (93.63% availability)
+More data about the 5783 mining pools:
+- 5555 have the mining fee (96.05% availability)
+- 5044 have the minimum payout threshold (87.22% availability)
+- 5439 have the payment scheme (94.05% availability)
 
 All the data was collected from BitcoinTalk announcements, mining pool websites, various wiki pages or by directly talking to coin and mining pool owners.
 
