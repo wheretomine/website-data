@@ -1,0 +1,1 @@
+{"name":"DesertHash","type":"DESERTHASH_ALGORITHM","slug":"deserthash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Globaltoken (DesertHash)","abbreviation":"GLT","slug":"globaltoken-deserthash"}]}

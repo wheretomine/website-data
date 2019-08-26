@@ -1,0 +1,1 @@
+{"name":"X12","type":"X12_ALGORITHM","slug":"x12","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Globaltoken (X12)","abbreviation":"GLT","slug":"globaltoken-x12"}]}

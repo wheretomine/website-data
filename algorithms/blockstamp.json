@@ -1,0 +1,1 @@
+{"name":"BlockStamp","type":"BLOCKSTAMP_ALGORITHM","slug":"blockstamp","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"BlockStamp","abbreviation":"BST","slug":"blockstamp"}]}

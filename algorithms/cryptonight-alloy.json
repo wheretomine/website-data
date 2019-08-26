@@ -1,0 +1,1 @@
+{"name":"CryptoNight Alloy","type":"CRYPTONIGHT_ALLOY_ALGORITHM","slug":"cryptonight-alloy","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[{"name":"BitcoinTalk","platform":"bitcointalk","url":"https://bitcointalk.org/index.php?topic=3002653.160"}],"coins":[{"numberOfSubPools":5,"name":"Alloy","abbreviation":"XAO","slug":"alloy"}]}

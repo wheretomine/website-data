@@ -1,0 +1,1 @@
+{"name":"Ubqhash","type":"UBQHASH_ALGORITHM","slug":"ubqhash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[{"name":"Medium","platform":"medium","url":"https://blog.ubiqsmart.com/introducing-ubqhash-8fa515befd7"}],"coins":[{"numberOfSubPools":23,"name":"Ubiq","abbreviation":"UBQ","slug":"ubiq"}]}

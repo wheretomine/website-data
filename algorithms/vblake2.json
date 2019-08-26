@@ -1,0 +1,1 @@
+{"name":"vBlake2","type":"VBLAKE2_ALGORITHM","slug":"vblake2","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":15,"name":"VeriBlock","abbreviation":"VBK","slug":"veriblock"}]}

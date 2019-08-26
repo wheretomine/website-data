@@ -1,0 +1,1 @@
+{"name":"RickHash","type":"RICKHASH_ALGORITHM","slug":"rickhash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Globaltoken (RickHash)","abbreviation":"GLT","slug":"globaltoken-rickhash"}]}

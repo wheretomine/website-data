@@ -1,0 +1,1 @@
+{"name":"Equihash 210,9","type":"EQUIHASH_210_9_ALGORITHM","slug":"equihash-210-9","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":9,"name":"Aion","abbreviation":"AION","slug":"aion"}]}

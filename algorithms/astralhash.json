@@ -1,0 +1,1 @@
+{"name":"AstralHash","type":"ASTRALHASH_ALGORITHM","slug":"astralhash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Globaltoken (AstralHash)","abbreviation":"GLT","slug":"globaltoken-astralhash"}]}

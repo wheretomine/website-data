@@ -1,0 +1,1 @@
+{"name":"Cuckatoo31","type":"CUCKATOO31_ALGORITHM","slug":"cuckatoo31","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"BitGrin (C31)","abbreviation":"XBG","slug":"bitgrin-c31"},{"numberOfSubPools":12,"name":"Grin (C31)","abbreviation":"GRIN","slug":"grin-c31"}]}

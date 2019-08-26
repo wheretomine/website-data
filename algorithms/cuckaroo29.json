@@ -1,0 +1,1 @@
+{"name":"Cuckaroo29","type":"CUCKAROO29_ALGORITHM","slug":"cuckaroo29","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"BitGrin (C29)","abbreviation":"XBG","slug":"bitgrin-c29"},{"numberOfSubPools":15,"name":"Swap","abbreviation":"XWP","slug":"swap"}]}

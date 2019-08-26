@@ -1,0 +1,1 @@
+{"name":"SonoA","type":"SONOA_ALGORITHM","slug":"sonoa","description":"New algorithm developed by the SONO dev team.","defaults":{"userHashrate":0,"powerConsumption":0},"links":[{"name":"BitcoinTalk","platform":"bitcointalk","url":"https://bitcointalk.org/index.php?topic=2105778.0"}],"coins":[{"numberOfSubPools":6,"name":"Sono","abbreviation":"SONO","slug":"sono"}]}

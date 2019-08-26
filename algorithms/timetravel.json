@@ -1,0 +1,1 @@
+{"name":"TimeTravel","type":"TIMETRAVEL_ALGORITHM","slug":"timetravel","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":8,"name":"Machinecoin","abbreviation":"MAC","slug":"machinecoin"}]}

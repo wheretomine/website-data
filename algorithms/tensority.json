@@ -1,0 +1,1 @@
+{"name":"Tensority","type":"TENSORITY_ALGORITHM","slug":"tensority","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":10,"name":"Bytom","abbreviation":"BTM","slug":"bytom"}]}

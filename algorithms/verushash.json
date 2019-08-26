@@ -1,0 +1,1 @@
+{"name":"VerusHash","type":"VERUSHASH_ALGORITHM","slug":"verushash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Lumberscout","abbreviation":"LUMBER","slug":"lumberscout"},{"numberOfSubPools":13,"name":"VerusCoin","abbreviation":"VRSC","slug":"veruscoin"}]}

@@ -1,0 +1,1 @@
+{"name":"Balloon","type":"BALLOON_ALGORITHM","slug":"balloon","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Deft","abbreviation":"DEFT","slug":"deft"}]}

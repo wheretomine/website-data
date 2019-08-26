@@ -1,0 +1,1 @@
+{"name":"SHA 256T","type":"SHA_256T_ALGORITHM","slug":"sha-256t","description":"Triple Sha256.","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"OC Protocol","abbreviation":"OCP","slug":"oc-protocol"}]}

@@ -1,0 +1,1 @@
+{"name":"SHA 256Q","type":"SHA_256Q_ALGORITHM","slug":"sha-256q","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Pyrite","abbreviation":"PYE","slug":"pyrite"}]}

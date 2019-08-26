@@ -1,0 +1,1 @@
+{"name":"Lyra2CZ","type":"LYRA2CZ_ALGORITHM","slug":"lyra2cz","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Kepler (Lyra2cz)","abbreviation":"KPL","slug":"kepler-lyra2cz"}]}
