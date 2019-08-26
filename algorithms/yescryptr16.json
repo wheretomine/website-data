@@ -1,1 +1,1 @@
-{"name":"YescryptR16","type":"YESCRYPTR16_ALGORITHM","slug":"yescryptr16","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":15,"name":"Elicoin","abbreviation":"ELI","slug":"elicoin"}]}
+{"name":"YescryptR16","type":"YESCRYPTR16_ALGORITHM","slug":"yescryptr16","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":15,"name":"Elicoin","abbreviation":"ELI","slug":"elicoin"}],"numberOfCoins":1}

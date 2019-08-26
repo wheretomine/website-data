@@ -1,1 +1,1 @@
-{"name":"YescryptR8","type":"YESCRYPTR8_ALGORITHM","slug":"yescryptr8","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Globaltoken (YescryptR8)","abbreviation":"GLT","slug":"globaltoken-yescryptr8"}]}
+{"name":"YescryptR8","type":"YESCRYPTR8_ALGORITHM","slug":"yescryptr8","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Globaltoken (YescryptR8)","abbreviation":"GLT","slug":"globaltoken-yescryptr8"}],"numberOfCoins":1}

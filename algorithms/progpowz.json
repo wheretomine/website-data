@@ -1,1 +1,1 @@
-{"name":"ProgPowZ","type":"PROGPOWZ_ALGORITHM","slug":"progpowz","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Zano","abbreviation":"ZANO","slug":"zano"}]}
+{"name":"ProgPowZ","type":"PROGPOWZ_ALGORITHM","slug":"progpowz","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Zano","abbreviation":"ZANO","slug":"zano"}],"numberOfCoins":1}

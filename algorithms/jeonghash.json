@@ -1,1 +1,1 @@
-{"name":"JeongHash","type":"JEONGHASH_ALGORITHM","slug":"jeonghash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Globaltoken (JeongHash)","abbreviation":"GLT","slug":"globaltoken-jeonghash"}]}
+{"name":"JeongHash","type":"JEONGHASH_ALGORITHM","slug":"jeonghash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Globaltoken (JeongHash)","abbreviation":"GLT","slug":"globaltoken-jeonghash"}],"numberOfCoins":1}

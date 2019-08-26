@@ -1,1 +1,1 @@
-{"name":"Skein2","type":"SKEIN2_ALGORITHM","slug":"skein2","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Woodcoin","abbreviation":"LOG","slug":"woodcoin"}]}
+{"name":"Skein2","type":"SKEIN2_ALGORITHM","slug":"skein2","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Woodcoin","abbreviation":"LOG","slug":"woodcoin"}],"numberOfCoins":1}

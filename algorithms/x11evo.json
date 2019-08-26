@@ -1,1 +1,1 @@
-{"name":"X11Evo","type":"X11EVO_ALGORITHM","slug":"x11evo","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":0,"name":"RevolverCoin","abbreviation":"XRE","slug":"revolvercoin"}]}
+{"name":"X11Evo","type":"X11EVO_ALGORITHM","slug":"x11evo","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":0,"name":"RevolverCoin","abbreviation":"XRE","slug":"revolvercoin"}],"numberOfCoins":1}

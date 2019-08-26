@@ -1,1 +1,1 @@
-{"name":"Polytimos","type":"POLYTIMOS_ALGORITHM","slug":"polytimos","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":6,"name":"Polytimos","abbreviation":"POLY","slug":"polytimos"}]}
+{"name":"Polytimos","type":"POLYTIMOS_ALGORITHM","slug":"polytimos","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":6,"name":"Polytimos","abbreviation":"POLY","slug":"polytimos"}],"numberOfCoins":1}

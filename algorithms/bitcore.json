@@ -1,1 +1,1 @@
-{"name":"Bitcore","type":"BITCORE_ALGORITHM","slug":"bitcore","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Globaltoken (Bitcore)","abbreviation":"GLT","slug":"globaltoken-bitcore"}]}
+{"name":"Bitcore","type":"BITCORE_ALGORITHM","slug":"bitcore","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":3,"name":"Globaltoken (Bitcore)","abbreviation":"GLT","slug":"globaltoken-bitcore"}],"numberOfCoins":1}

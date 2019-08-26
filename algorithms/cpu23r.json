@@ -1,1 +1,1 @@
-{"name":"Cpu23r","type":"CPU23R_ALGORITHM","slug":"cpu23r","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Globaltoken (Cpu23r)","abbreviation":"GLT","slug":"globaltoken-cpu23r"}]}
+{"name":"Cpu23r","type":"CPU23R_ALGORITHM","slug":"cpu23r","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":1,"name":"Globaltoken (Cpu23r)","abbreviation":"GLT","slug":"globaltoken-cpu23r"}],"numberOfCoins":1}

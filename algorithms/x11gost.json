@@ -1,1 +1,1 @@
-{"name":"X11Gost","type":"X11GOST_ALGORITHM","slug":"x11gost","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":10,"name":"Sibcoin","abbreviation":"SIB","slug":"sibcoin"}]}
+{"name":"X11Gost","type":"X11GOST_ALGORITHM","slug":"x11gost","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":10,"name":"Sibcoin","abbreviation":"SIB","slug":"sibcoin"}],"numberOfCoins":1}

@@ -1,1 +1,1 @@
-{"name":"Lyra2 Webchain","type":"LYRA2_WEBCHAIN_ALGORITHM","slug":"lyra2-webchain","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":11,"name":"Webchain","abbreviation":"WEB","slug":"webchain"}]}
+{"name":"Lyra2 Webchain","type":"LYRA2_WEBCHAIN_ALGORITHM","slug":"lyra2-webchain","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":11,"name":"Webchain","abbreviation":"WEB","slug":"webchain"}],"numberOfCoins":1}

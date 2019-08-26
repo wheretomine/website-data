@@ -1,1 +1,1 @@
-{"name":"Sha3d","type":"SHA3D_ALGORITHM","slug":"sha3d","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":4,"name":"Bsha3","abbreviation":"BSHA3","slug":"bsha3"}]}
+{"name":"Sha3d","type":"SHA3D_ALGORITHM","slug":"sha3d","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":4,"name":"Bsha3","abbreviation":"BSHA3","slug":"bsha3"}],"numberOfCoins":1}

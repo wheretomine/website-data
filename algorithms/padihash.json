@@ -1,1 +1,1 @@
-{"name":"PadiHash","type":"PADIHASH_ALGORITHM","slug":"padihash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Globaltoken (PadiHash)","abbreviation":"GLT","slug":"globaltoken-padihash"}]}
+{"name":"PadiHash","type":"PADIHASH_ALGORITHM","slug":"padihash","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":2,"name":"Globaltoken (PadiHash)","abbreviation":"GLT","slug":"globaltoken-padihash"}],"numberOfCoins":1}

@@ -1,1 +1,1 @@
-{"name":"Dedal","type":"DEDAL_ALGORITHM","slug":"dedal","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":4,"name":"Globaltoken (Dedal)","abbreviation":"GLT","slug":"globaltoken-dedal"}]}
+{"name":"Dedal","type":"DEDAL_ALGORITHM","slug":"dedal","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[{"numberOfSubPools":4,"name":"Globaltoken (Dedal)","abbreviation":"GLT","slug":"globaltoken-dedal"}],"numberOfCoins":1}

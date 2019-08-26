@@ -1,1 +1,1 @@
-{"name":"Inflation","type":"INFLATION_ALGORITHM","slug":"inflation","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[]}
+{"name":"Inflation","type":"INFLATION_ALGORITHM","slug":"inflation","description":"","defaults":{"userHashrate":0,"powerConsumption":0},"links":[],"coins":[],"numberOfCoins":0}
